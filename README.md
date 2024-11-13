@@ -1,3 +1,7 @@
+![Alt text](./Screenshots/Screenshot 2024-11-12 233508.png)
+![Alt text](./Screenshots/Screenshot 2024-11-12 233315.png)
+
+
 # Flappy Bird Clone
 
 This project is a Unity-based clone of the classic Flappy Bird game. It was developed to recreate the simple, addictive gameplay while learning Unity game development essentials.
@@ -30,3 +34,5 @@ In this Flappy Bird clone, players control a small bird navigating through a ser
 
     Open the project in Unity.
     Select the main game scene and press Play.
+
+    
