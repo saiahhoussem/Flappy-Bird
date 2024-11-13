@@ -26,7 +26,7 @@ In this Flappy Bird clone, players control a small bird navigating through a ser
 
     Clone this repository:
 
-    git clone [https://github.com/YourUsername/FlappyBirdClone.git](https://github.com/saiahhoussem/Flappy-Bird.git)
+    git clone https://github.com/saiahhoussem/Flappy-Bird.git
 
     Open the project in Unity.
     Select the main game scene and press Play.
