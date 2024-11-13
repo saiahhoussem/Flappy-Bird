@@ -30,3 +30,5 @@ In this Flappy Bird clone, players control a small bird navigating through a ser
 
     Open the project in Unity.
     Select the main game scene and press Play.
+
+    
